@@ -1,0 +1,2 @@
+# RepoVision-Intelligent-Repository-Explorer-Code-Analyzer-as-by-AI-augmented-analysis-
+I developed a comprehensive application for cloning and exploring Git repositories alongside local directories, featuring interactive directory visualization and file size analysis. The system integrates an AI-driven engine to generate instant code explanations, transforming complex source code into clear, navigable insights for developers.
